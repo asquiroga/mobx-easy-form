@@ -9,5 +9,7 @@ Custom Validations are supported.
 We get autocomplete for free.
 
 ## How to use it
+Run `npm i` and then `npm start`
 
-Just go to `LoginForm.tsx` and `ComplexForm.tsx` to understand it, is very easy.
+Go to `LoginForm.tsx` and `ComplexForm.tsx` to understand it, is very easy.
+
